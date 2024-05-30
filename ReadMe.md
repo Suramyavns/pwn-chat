@@ -1,5 +1,5 @@
-### Simple Terminal Chat App
-## Using Python
+## Simple Terminal Chat App
+### Using Python
 
 This python script can be used to anonymously chat to a remote IP address. 
 The target would initialise a netcat listener on local machine.
