@@ -14,5 +14,6 @@ Note: Use VPN for optimum security.
 
 # Chat:
 1. Target: `nc -lvp <port>`
-2. Host: `python pwn-chat.py`
-3. Enter target's IP `RHOSTS` and port `RPORT`.
+2. Host: `python pwn-chat.py <args>`
+
+NOTE: Run `python pwn-chat.py -h` for help.
